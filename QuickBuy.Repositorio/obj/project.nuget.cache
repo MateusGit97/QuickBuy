@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pmox5B3QJao4zO1qdNK6zb4BR538i3BHMfggoSuOfkbwh3wwG9Glq2MjlgYzZDsBGZAdqLIkUQKJd9cg1FE53g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mateus\\Documents\\Projetos_NET_Core\\QuickBuy\\QuickBuy.Repositorio\\QuickBuy.Repositorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
